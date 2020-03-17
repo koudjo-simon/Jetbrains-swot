@@ -1,0 +1,23 @@
+given a string
+strip out ^ and $
+strip everything before @
+strip anything betwen []
+strip anything between {}
+strip (
+strip )
+strip ?
+replace \. with .
+
+
+do as an updater, squirt out 2 files, domains-staff.txt and domains-student.txt
+
+tsv with
+
+Domain	ID	Name
+
+in order of ascending domain
+
+
+
+
+ 
